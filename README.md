@@ -30,7 +30,7 @@ JS code that you have to paste in console:
  <span style="color: #fff; font-weight: bold;">OR</span>
 </p>
 
-If the method shown previously was too complicated for you, you can watch [this video](https://www.youtube.com/watch?v=Eb_AxTYclq4)
+If the method shown previously was too complicated for you, you can watch [this video](https://www.youtube.com/watch?v=Eb_AxTYclq4) where you have full guide on how to do it (it's also a different method).
 
 3. Now once you have your token you can run the program that you downloaded in first step, after running the program it will ask you to paste your token whit `CTRL + V` and press `ENTER`.
 
