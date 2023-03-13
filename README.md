@@ -16,11 +16,11 @@ This program allows you to clone any discord server just using its ID
 
 - **IMPORTANT**: When you open the console you will see warning message (like this one shown on the image down), you don't have to panic because this program is not scam or anything like that it just needs your token in order to create and edit server that you are cloning in yor name. Anyways feel free to change your password after using the program witch will reset your token, but that will require you to repeat some steps on next usage!
 
-- **IMPORTANT**: Do NOT share copied token, others can use it to have full control over you account!
-
 <p align="center">
   <img alt="issue" src="https://github.com/Josakko/DiscordServerCloner/blob/main/assets/image.png?raw=true" width="650px">
 </p>
+
+- **IMPORTANT**: Do NOT share copied token, others can use it to have full control over you account!
 
 JS code that you have to paste in console:
 
