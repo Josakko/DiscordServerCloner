@@ -39,7 +39,7 @@ def Panel_Run(guild, user):
 
     footer = Table(show_header=False, header_style="bold", show_lines=False, width=47)
     footer.add_column(justify="center")
-    footer.add_row(f"[bold magenta]ID of server to clone ID: [green]{guild}")
+    footer.add_row(f"[bold magenta]Name of the server to clone: [green]{guild}")
     footer.add_row(f"[bold magenta]Account logged in: [green]{user}")
 
     console = Console()
