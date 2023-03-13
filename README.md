@@ -14,7 +14,7 @@ This program allows you to clone any discord server just using its ID
 
 2. Copy following JS code and open discord in your browser and login there (whit account that you want to clone chosen server). Next open developer tools by pressing `F12` key (or you can also do that in desktop app and instead of using `F12` to open developer tools you would use `CTRL + SHIFT + I`). When zou have developer tools opened on top you will see navigation bar, there click on `Console`. Now here in console paste JS code that you copied earlier. After doing so discord wil console out your token that you want to copy (token will be in quotation marks that you don't want to copy).
 
-- **IMPORTANT**: When you open the console you will see message like this:
+- **IMPORTANT**: When you open the console you will see message like this one shown down, you don't have to 
 
 
 
