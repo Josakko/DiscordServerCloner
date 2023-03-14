@@ -2,7 +2,7 @@
 
 <p align="center">
     <span style="color: #fff; font-weight: bold;">DiscordCloner</span>
-<span style="color: #fff; font-weight: bold;">v1.0.0</span>
+<span style="color: #fff; font-weight: bold;">v1.0.1</span>
 
 This program allows you to clone any discord server just using its ID
 
