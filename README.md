@@ -36,7 +36,7 @@ If the method shown previously was too complicated for you, you can watch [this 
 
 4. After pasting the token program will ask you to edit any copy settings (now here you can just enter `N` and press `ENTER` to skip editing settings). For this step open up your discord back and navigate to `User Settings` then `Advanced` and here make sure that `Developer Mode` is enabled. 
 
-5. Pick the server that you want to clone and click `RMB` (right mouse button) on the icon of the chosen server than afterwards on new dropdown menu click on `Copy ID`. Next go back to the program and paste there copied ID. If every thing is done right you will see message that says your discord name whit ID of server to clone (if everything is done correctly you will get message like this one show on the image down below).
+5. Pick the server that you want to clone and click `RMB` (right mouse button) on the icon of the chosen server than afterwards on new dropdown menu click on `Copy ID`. Next go back to the program and paste there copied ID. If every thing is done right you will see message that says your discord username whit name of server to clone (if everything is done correctly you will get message like this one show on the image down below).
 
 <p align="center">
   <img alt="issue" src="https://github.com/Josakko/DiscordServerCloner/blob/main/assets/screenshot.png?raw=true" width="600px">
